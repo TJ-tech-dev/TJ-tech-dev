@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TJ-tech-dev
 - 👀 I’m interested in Cybersecurity, mobile app development, game development
 - 🌱 I’m currently learning Phyton 3, HTML, CSS
-- 💞️ I’m looking to collaborate on abything preferably cybersecurtiy
+- 💞️ I’m looking to collaborate on anything preferably cybersecurtiy
 - 📫 How to reach me helloaltjacktj@gmail.com
 
 
